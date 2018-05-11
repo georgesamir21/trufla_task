@@ -14,8 +14,7 @@ I added an extra method/command to updte the value of ceartin key, as in the add
 
 #### To run as ./store.js
 
-run npm install
-Add excute permission for the file store.js
+Run npm install. Add excute permission for the file store.js
 
 you can run all the commands in this way
 ```
