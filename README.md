@@ -1,5 +1,5 @@
 # Simple Dictionary key/value
-Trufla Egupt code challenge
+Trufla Egypt code challenge
 
 ### Running
 ```
